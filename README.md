@@ -22,7 +22,7 @@
 
 ## 💻 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,java,python,git,github,html,css,tailwind,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,java,python,git,github,html,css,tailwind,Nextjs,axios,cloudinary,bootstrap&theme=dark"/>
 </p>
 
 ---
